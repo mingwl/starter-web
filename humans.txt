@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
     member1 -- role1 -- t1
+    member2 -- role2 -- t2
 
 # THANKS
 
